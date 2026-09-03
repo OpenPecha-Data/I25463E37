@@ -1,0 +1,25 @@
+id: I25463E37
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-LB-017
+  title: ''
+  author: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
+  authors: &id001
+  - བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
+  sku: BEN-LB-017
+  cover: Benchen-17th-book-Cover.jpg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: BEN-LB-017
+  cover: Benchen-17th-book-Cover.jpg
+layers:
+- Author
+- BookNumber
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
